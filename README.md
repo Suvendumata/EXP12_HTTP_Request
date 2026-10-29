@@ -105,9 +105,6 @@ EXP12/
 ## 11. Result
 The Android application sends an HTTP GET request to a public web service, receives JSON data, and displays the fetched user information.
 
-## 12. GitHub Repository
-[HTTPRequestDemo Repository](https://github.com/Atiullah18/HTTPRequestDemo)
-
 ## Author
 **Suvendu Mata**  
 Master of Computer Applications (MCA)  
